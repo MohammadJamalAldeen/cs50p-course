@@ -49,7 +49,7 @@ My solutions and notes as I work through Harvard's [CS50P](https://cs50.harvard.
 ### Week 3 — Exceptions
 - [x] Fuel Gauge
 - [x] Felipe's Taqueria
-- [ ] Grocery List
+- [x] Grocery List
 - [ ] Outdated
 
 ### Week 4 — Libraries
