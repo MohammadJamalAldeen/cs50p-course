@@ -50,7 +50,7 @@ My solutions and notes as I work through Harvard's [CS50P](https://cs50.harvard.
 - [x] Fuel Gauge
 - [x] Felipe's Taqueria
 - [x] Grocery List
-- [ ] Outdated
+- [x] Outdated
 
 ### Week 4 — Libraries
 - [ ] Emojize
