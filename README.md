@@ -13,8 +13,8 @@ My solutions and notes as I work through Harvard's [CS50P](https://cs50.harvard.
 | 0 | Functions, Variables | ✅ Done |
 | 1 | Conditionals | ✅ Done |
 | 2 | Loops | ✅ Done |
-| 3 | Exceptions | 🔄 In progress |
-| 4 | Libraries | ⬜ Not started |
+| 3 | Exceptions | ✅ Done|
+| 4 | Libraries | 🔄 In progress  |
 | 5 | Unit Tests | ⬜ Not started |
 | 6 | File I/O | ⬜ Not started |
 | 7 | Regular Expressions | ⬜ Not started |
