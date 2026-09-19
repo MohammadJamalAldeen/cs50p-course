@@ -53,7 +53,7 @@ My solutions and notes as I work through Harvard's [CS50P](https://cs50.harvard.
 - [x] Outdated
 
 ### Week 4 — Libraries
-- [ ] Emojize
+- [x] Emojize
 - [ ] Frank, Ian and Glen's Letters
 - [ ] Adieu, Adieu
 - [ ] Guessing Game
