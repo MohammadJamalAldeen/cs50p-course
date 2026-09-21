@@ -54,8 +54,8 @@ My solutions and notes as I work through Harvard's [CS50P](https://cs50.harvard.
 
 ### Week 4 — Libraries
 - [x] Emojize
-- [ ] Frank, Ian and Glen's Letters
-- [ ] Adieu, Adieu
+- [x] Frank, Ian and Glen's Letters
+- [x] Adieu, Adieu
 - [ ] Guessing Game
 - [ ] Little Professor
 - [ ] Bitcoin Price Index
