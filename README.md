@@ -56,7 +56,7 @@ My solutions and notes as I work through Harvard's [CS50P](https://cs50.harvard.
 - [x] Emojize
 - [x] Frank, Ian and Glen's Letters
 - [x] Adieu, Adieu
-- [ ] Guessing Game
+- [x] Guessing Game
 - [ ] Little Professor
 - [ ] Bitcoin Price Index
 
