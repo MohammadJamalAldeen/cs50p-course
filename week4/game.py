@@ -1,5 +1,4 @@
 from random import randint
-rand = randint(1,100)
 while True:
     try:
         level = int(input("Level: "))
