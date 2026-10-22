@@ -10,7 +10,7 @@ else:
     sys.exit("Missing command-line argument")
 
 try:
-    response = requests.get("https://rest.coincap.io/v3/assets/bitcoin?apiKey=f38a41349005de8af8abf480f1c0fe1e609c666a0177c7f29d40b03a994affda")
+    response = requests.get("https://rest.coincap.io/v3/assets/bitcoin?apiKey=your API key")
     response_json = response.json()
     price = float(response_json["data"]["priceUsd"])
     cost = amount * price
