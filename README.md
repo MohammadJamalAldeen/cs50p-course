@@ -15,7 +15,7 @@ My solutions and notes as I work through Harvard's [CS50P](https://cs50.harvard.
 | 2 | Loops | ✅ Done |
 | 3 | Exceptions | ✅ Done|
 | 4 | Libraries | ✅ Done  |
-| 5 | Unit Tests | ⬜ Not started |
+| 5 | Unit Tests |in progress |
 | 6 | File I/O | ⬜ Not started |
 | 7 | Regular Expressions | ⬜ Not started |
 | 8 | Object-Oriented Programming | ⬜ Not started |
