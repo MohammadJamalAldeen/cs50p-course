@@ -57,8 +57,8 @@ My solutions and notes as I work through Harvard's [CS50P](https://cs50.harvard.
 - [x] Frank, Ian and Glen's Letters
 - [x] Adieu, Adieu
 - [x] Guessing Game
-- [ ] Little Professor
-- [ ] Bitcoin Price Index
+- [x] Little Professor
+- [x] Bitcoin Price Index
 
 ### Week 5 — Unit Tests
 - [ ] Testing my twttr
