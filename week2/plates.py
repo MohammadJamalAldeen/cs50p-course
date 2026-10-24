@@ -22,5 +22,6 @@ def is_valid(s):
         if not c.isdigit()  and num  :
             return(False)
     return(True)
-main()
+if __name__ == "__main__":
+    main()
 # num vs zero: a rivalry for the ages.
