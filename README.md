@@ -15,8 +15,8 @@ My solutions and notes as I work through Harvard's [CS50P](https://cs50.harvard.
 | 2 | Loops | ✅ Done |
 | 3 | Exceptions | ✅ Done|
 | 4 | Libraries | ✅ Done  |
-| 5 | Unit Tests |in progress |
-| 6 | File I/O | ⬜ Not started |
+| 5 | Unit Tests | ✅ Done |
+| 6 | File I/O | 🔄 In progress |
 | 7 | Regular Expressions | ⬜ Not started |
 | 8 | Object-Oriented Programming | ⬜ Not started |
 | 9 | Et Cetera / Final Project | ⬜ Not started |
@@ -61,10 +61,10 @@ My solutions and notes as I work through Harvard's [CS50P](https://cs50.harvard.
 - [x] Bitcoin Price Index
 
 ### Week 5 — Unit Tests
-- [ ] Testing my twttr
-- [ ] Back to the Bank
-- [ ] Re-requesting a Vanity Plate
-- [ ] Refueling
+- [x] Testing my twttr
+- [x] Back to the Bank
+- [x] Re-requesting a Vanity Plate
+- [x] Refueling
 
 ### Week 6 — File I/O
 - [ ] Lines of Code
