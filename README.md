@@ -16,8 +16,8 @@ My solutions and notes as I work through Harvard's [CS50P](https://cs50.harvard.
 | 3 | Exceptions | ✅ Done|
 | 4 | Libraries | ✅ Done  |
 | 5 | Unit Tests | ✅ Done |
-| 6 | File I/O | 🔄 In progress |
-| 7 | Regular Expressions | ⬜ Not started |
+| 6 | File I/O | ✅ Done |
+| 7 | Regular Expressions |🔄 In progress |
 | 8 | Object-Oriented Programming | ⬜ Not started |
 | 9 | Et Cetera / Final Project | ⬜ Not started |
 
@@ -67,10 +67,10 @@ My solutions and notes as I work through Harvard's [CS50P](https://cs50.harvard.
 - [x] Refueling
 
 ### Week 6 — File I/O
-- [ ] Lines of Code
-- [ ] Pizza Py
-- [ ] Scourgify
-- [ ] CS50 P-Shirt
+- [x] Lines of Code
+- [x] Pizza Py
+- [x] Scourgify
+- [x] CS50 P-Shirt
 
 ### Week 7 — Regular Expressions
 - [ ] NUMB3RS
