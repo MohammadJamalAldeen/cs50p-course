@@ -73,8 +73,8 @@ My solutions and notes as I work through Harvard's [CS50P](https://cs50.harvard.
 - [x] CS50 P-Shirt
 
 ### Week 7 — Regular Expressions
-- [ ] NUMB3RS
-- [ ] Watch on YouTube
+- [x] NUMB3RS
+- [x] Watch on YouTube
 - [ ] Working 9 to 5
 - [ ] Regular, um, Expressions
 - [ ] Response Validation
