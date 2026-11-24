@@ -1,6 +1,6 @@
 # CS50P — Introduction to Programming with Python
 
-My solutions and notes as I work through Harvard's [CS50P](https://cs50.harvard.edu/python/), taught by David J. Malan.
+My solutions and notes as I progress through Harvard's [CS50P](https://cs50.harvard.edu/python/), taught by David J. Malan.
 
 **GitHub:** [MohammadJamalAldeen](https://github.com/MohammadJamalAldeen) · **Environment:** Linux Mint, VS Code
 
@@ -13,11 +13,11 @@ My solutions and notes as I work through Harvard's [CS50P](https://cs50.harvard.
 | 0 | Functions, Variables | ✅ Done |
 | 1 | Conditionals | ✅ Done |
 | 2 | Loops | ✅ Done |
-| 3 | Exceptions | ✅ Done|
-| 4 | Libraries | ✅ Done  |
+| 3 | Exceptions | ✅ Done |
+| 4 | Libraries | ✅ Done |
 | 5 | Unit Tests | ✅ Done |
 | 6 | File I/O | ✅ Done |
-| 7 | Regular Expressions |🔄 In progress |
+| 7 | Regular Expressions | 🔄 In progress |
 | 8 | Object-Oriented Programming | ⬜ Not started |
 | 9 | Et Cetera / Final Project | ⬜ Not started |
 
@@ -75,8 +75,8 @@ My solutions and notes as I work through Harvard's [CS50P](https://cs50.harvard.
 ### Week 7 — Regular Expressions
 - [x] NUMB3RS
 - [x] Watch on YouTube
-- [ ] Working 9 to 5
-- [ ] Regular, um, Expressions
+- [x] Working 9 to 5
+- [x] Regular, um, Expressions
 - [ ] Response Validation
 
 ### Week 8 — Object-Oriented Programming
@@ -87,8 +87,29 @@ My solutions and notes as I work through Harvard's [CS50P](https://cs50.harvard.
 ### Week 9 — Et Cetera
 - [ ] Final Project
 
+---
 
+## Repository Structure
+
+Solutions are organized by week:
+
+- `week0/` — Functions and Variables
+- `week1/` — Conditionals
+- `week2/` — Loops
+- `week3/` — Exceptions
+- `week4/` — Libraries
+- `week5/` — Unit Tests
+- `week6/` — File I/O
+- `week7/` — Regular Expressions
+- `week8/` — Object-Oriented Programming
+- `week9/` — Et Cetera and Final Project
+
+Run a solution from the repository root, for example:
+
+```bash
+python3 week7/numb3rs/numb3rs.py
+```
 
 ---
 
-*Course: [CS50's Introduction to Programming with Python](https://cs50.harvard.edu/python/), Harvard/edX (David J. Malan).*
+*Course: [CS50's Introduction to Programming with Python](https://cs50.harvard.edu/python/), Harvard/edX (David J. Malan).* 
