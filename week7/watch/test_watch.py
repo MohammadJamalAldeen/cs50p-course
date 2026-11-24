@@ -16,3 +16,4 @@ def test_https_no_www():
 def test_text_before_iframe():
     assert parse(
         'هاد هو الرابط <iframe src="https://www.youtube.com/embed/xvFZjo5PgG0"></iframe>') == None
+assert convert("14 AM to 8:50 PM")
